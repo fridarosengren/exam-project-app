@@ -1,0 +1,10 @@
+hooks
+platforms
+plugins
+.bithoundrc
+config.xml
+www/spec
+www/res
+www/img
+www/resources
+www/spec.html
